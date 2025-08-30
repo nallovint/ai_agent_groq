@@ -1,0 +1,30 @@
+# Python-generated files
+**/__pycache__/
+*.py[oc]
+**/build/
+**/dist/
+**/wheels/
+**/*.egg-info
+
+# Virtual environments
+**/.venv
+**/.env
+
+# Python virtual environment directories
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project-specific
+*.log
+*.tmp
